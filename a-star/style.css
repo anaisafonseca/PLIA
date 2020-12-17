@@ -1,0 +1,40 @@
+/* Anaísa Forti da Fonseca - 11811ECP012 */
+
+body{
+  display: flex;
+  justify-content: center;
+  background-color:#282828;
+  color:#ededed;
+  width: 98%;
+  margin: 30px;
+  font-size: 18px;
+}
+
+.container{
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+}
+
+h1{
+  padding: 10px;
+}
+
+.button{
+  background:none;
+  border: #ededed solid 1px;
+  border-radius: 3px;
+  margin:7px;
+  padding:10px;
+  position:relative;
+  display:inline-block;
+}
+
+.button:hover {
+  cursor:pointer;
+  background-color: #ededed15;
+}
+
+.button:focus{
+  background-color: #15151585;
+}

@@ -1,0 +1,254 @@
+script.js:113 Posição da parede:
+script.js:114 40
+script.js:115 40
+
+script.js:113 Posição da parede:
+script.js:114 60
+script.js:115 60
+
+script.js:113 Posição da parede:
+script.js:114 80
+script.js:115 80
+
+script.js:113 Posição da parede:
+script.js:114 720
+script.js:115 760
+
+script.js:113 Posição da parede:
+script.js:114 740
+script.js:115 740
+
+script.js:113 Posição da parede:
+script.js:114 740
+script.js:115 760
+
+script.js:113 Posição da parede:
+script.js:114 760
+script.js:115 760
+
+script.js:113 Posição da parede:
+script.js:114 760
+script.js:115 780
+
+script.js:248 Número de quadrados: 
+script.js:249 1600
+
+script.js:311 
+Lista de vizinhos:
+script.js:312 (3) [1, 40, 41]0: 11: 402: 41length: 3__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(3) {Node, Node, Node}[[Entries]][0 … 99]0: Node1: Node2: Node3: Node4: Node5: Node6: Node7: Node8: Node9: Node10: Node11: Node12: Node13: Node14: Node15: Node16: Node17: Node18: Node19: Node20: Node21: Node22: Node23: Node24: Node25: Node26: Node27: Node28: Node29: Node30: Node31: Node32: Node33: Node34: Node35: Node36: Node37: Node38: Node39: Node40: Node41: Node42: Node43: Node44: Node45: Node46: Node47: Node48: Node49: Node50: Node51: Node52: Node53: Node54: Node55: Node56: Node57: Node58: Node59: Node60: Node61: Node62: Node63: Node64: Node65: Node66: Node67: Node68: Node69: Node70: Node71: Node72: Node73: Node74: Node75: Node76: Node77: Node78: Node79: Node80: Node81: Node82: Node83: Node84: Node85: Node86: Node87: Node88: Node89: Node90: Node91: Node92: Node93: Node94: Node95: Node96: Node97: Node98: Node99: Node[100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [0, 1, 2, 40, 42, 80, 81, 82]0: 01: 12: 23: 404: 425: 806: 817: 82length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(6) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [1, 2, 3, 41, 43, 81, 82, 83]0: 11: 22: 33: 414: 435: 816: 827: 83length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(8) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [42, 43, 44, 82, 84, 122, 123, 124]0: 421: 432: 443: 824: 845: 1226: 1237: 124length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(11) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [83, 84, 85, 123, 125, 163, 164, 165]0: 831: 842: 853: 1234: 1255: 1636: 1647: 165length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(14) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [124, 125, 126, 164, 166, 204, 205, 206]0: 1241: 1252: 1263: 1644: 1665: 2046: 2057: 206length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(18) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [164, 165, 166, 204, 206, 244, 245, 246]0: 1641: 1652: 1663: 2044: 2065: 2446: 2457: 246length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(20) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [205, 206, 207, 245, 247, 285, 286, 287]0: 2051: 2062: 2073: 2454: 2475: 2856: 2867: 287length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(24) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [246, 247, 248, 286, 288, 326, 327, 328]0: 2461: 2472: 2483: 2864: 2885: 3266: 3277: 328length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(28) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [287, 288, 289, 327, 329, 367, 368, 369]0: 2871: 2882: 2893: 3274: 3295: 3676: 3687: 369length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(32) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [328, 329, 330, 368, 370, 408, 409, 410]0: 3281: 3292: 3303: 3684: 3705: 4086: 4097: 410length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(36) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [369, 370, 371, 409, 411, 449, 450, 451]0: 3691: 3702: 3713: 4094: 4115: 4496: 4507: 451length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(40) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [410, 411, 412, 450, 452, 490, 491, 492]0: 4101: 4112: 4123: 4504: 4525: 4906: 4917: 492length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(44) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [451, 452, 453, 491, 493, 531, 532, 533]0: 4511: 4522: 4533: 4914: 4935: 5316: 5327: 533length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(48) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [492, 493, 494, 532, 534, 572, 573, 574]0: 4921: 4932: 4943: 5324: 5345: 5726: 5737: 574length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(52) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [533, 534, 535, 573, 575, 613, 614, 615]0: 5331: 5342: 5353: 5734: 5755: 6136: 6147: 615length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(56) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [574, 575, 576, 614, 616, 654, 655, 656]0: 5741: 5752: 5763: 6144: 6165: 6546: 6557: 656length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(60) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [615, 616, 617, 655, 657, 695, 696, 697]0: 6151: 6162: 6173: 6554: 6575: 6956: 6967: 697length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(64) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [656, 657, 658, 696, 698, 736, 737, 738]0: 6561: 6572: 6583: 6964: 6985: 7366: 7377: 738length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(68) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [697, 698, 699, 737, 739, 777, 778, 779]0: 6971: 6982: 6993: 7374: 7395: 7776: 7787: 779length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(72) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [738, 739, 740, 778, 780, 818, 819, 820]0: 7381: 7392: 7403: 7784: 7805: 8186: 8197: 820length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(76) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [779, 780, 781, 819, 821, 859, 860, 861]0: 7791: 7802: 7813: 8194: 8215: 8596: 8607: 861length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(80) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [820, 821, 822, 860, 862, 900, 901, 902]0: 8201: 8212: 8223: 8604: 8625: 9006: 9017: 902length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(84) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [861, 862, 863, 901, 903, 941, 942, 943]0: 8611: 8622: 8633: 9014: 9035: 9416: 9427: 943length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(88) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [902, 903, 904, 942, 944, 982, 983, 984]0: 9021: 9032: 9043: 9424: 9445: 9826: 9837: 984length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(92) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [943, 944, 945, 983, 985, 1023, 1024, 1025]0: 9431: 9442: 9453: 9834: 9855: 10236: 10247: 1025length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(96) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [984, 985, 986, 1024, 1026, 1064, 1065, 1066]0: 9841: 9852: 9863: 10244: 10265: 10646: 10657: 1066length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(100) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [1025, 1026, 1027, 1065, 1067, 1105, 1106, 1107]0: 10251: 10262: 10273: 10654: 10675: 11056: 11067: 1107length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(104) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [1066, 1067, 1068, 1106, 1108, 1146, 1147, 1148]0: 10661: 10672: 10683: 11064: 11085: 11466: 11477: 1148length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(108) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [1107, 1108, 1109, 1147, 1149, 1187, 1188, 1189]0: 11071: 11082: 11093: 11474: 11495: 11876: 11887: 1189length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(112) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [1148, 1149, 1150, 1188, 1190, 1228, 1229, 1230]0: 11481: 11492: 11503: 11884: 11905: 12286: 12297: 1230length: 8__proto__: Array(0)concat: ƒ concat()constructor: ƒ Array()copyWithin: ƒ copyWithin()entries: ƒ entries()every: ƒ every()fill: ƒ fill()filter: ƒ filter()find: ƒ find()findIndex: ƒ findIndex()flat: ƒ flat()flatMap: ƒ flatMap()forEach: ƒ forEach()includes: ƒ includes()indexOf: ƒ indexOf()join: ƒ join()keys: ƒ keys()lastIndexOf: ƒ lastIndexOf()length: 0map: ƒ map()pop: ƒ pop()push: ƒ push()reduce: ƒ reduce()reduceRight: ƒ reduceRight()reverse: ƒ reverse()shift: ƒ shift()slice: ƒ slice()some: ƒ some()sort: ƒ sort()splice: ƒ splice()toLocaleString: ƒ toLocaleString()toString: ƒ toString()unshift: ƒ unshift()values: ƒ values()Symbol(Symbol.iterator): ƒ values()Symbol(Symbol.unscopables): {copyWithin: true, entries: true, fill: true, find: true, findIndex: true, …}__proto__: Object
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(116) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [1189, 1190, 1191, 1229, 1231, 1269, 1270, 1271]0: 11891: 11902: 11913: 12294: 12315: 12696: 12707: 1271length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(120) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [1230, 1231, 1232, 1270, 1272, 1310, 1311, 1312]0: 12301: 12312: 12323: 12704: 12725: 13106: 13117: 1312length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(124) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [1271, 1272, 1273, 1311, 1313, 1351, 1352, 1353]0: 12711: 12722: 12733: 13114: 13135: 13516: 13527: 1353length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(128) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [1312, 1313, 1314, 1352, 1354, 1392, 1393, 1394]0: 13121: 13132: 13143: 13524: 13545: 13926: 13937: 1394length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(132) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [1353, 1354, 1355, 1393, 1395, 1433, 1434, 1435]0: 13531: 13542: 13553: 13934: 13955: 14336: 14347: 1435length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(136) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [1394, 1395, 1396, 1434, 1436, 1474, 1475, 1476]0: 13941: 13952: 13963: 14344: 14365: 14746: 14757: 1476length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(140) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [1435, 1436, 1437, 1475, 1477, 1515, 1516, 1517]0: 14351: 14362: 14373: 14754: 14775: 15156: 15167: 1517length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(143) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [1436, 1437, 1438, 1476, 1478, 1516, 1517, 1518]0: 14361: 14372: 14383: 14764: 14785: 15166: 15177: 1518length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(143) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [1475, 1476, 1477, 1515, 1517, 1555, 1556, 1557]0: 14751: 14762: 14773: 15154: 15175: 15556: 15567: 1557length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(145) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (8) [1516, 1517, 1518, 1556, 1558, 1596, 1597, 1598]0: 15161: 15172: 15183: 15564: 15585: 15966: 15977: 1598length: 8__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(147) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:311 
+Lista de vizinhos:
+script.js:312 (5) [1557, 1558, 1559, 1597, 1599]0: 15571: 15582: 15593: 15974: 1599length: 5__proto__: Array(0)
+script.js:208 Quadrados em aberto relativo à lista de vizinhos acima: 
+script.js:209 Set(147) {Node, Node, Node, Node, Node, …}[[Entries]][0 … 99][100 … 145]size: (...)__proto__: Set
+script.js:174 
+Início:
+script.js:175 Node {id: 0, size: 20, positionX: 0, positionY: 0, walkable: true, …}F: 10920getG: ƒ getValueG()arguments: (...)caller: (...)length: 0name: "getValueG"__proto__: ƒ ()[[FunctionLocation]]: script.js:65[[Scopes]]: Scopes[2]getH: ƒ getValueH()arguments: (...)caller: (...)length: 0name: "getValueH"__proto__: ƒ ()[[FunctionLocation]]: script.js:71[[Scopes]]: Scopes[2]id: 0inPath: truepositionX: 0positionY: 0size: 20walkable: true__proto__: Object
+script.js:176 
+Fim: 
+script.js:177 Node {id: 1599, size: 20, positionX: 780, positionY: 780, walkable: true, …}F: 10920gCost: 11040getG: ƒ getValueG()arguments: (...)caller: (...)length: 0name: "getValueG"__proto__: ƒ ()[[FunctionLocation]]: script.js:65[[Scopes]]: Scopes[2]getH: ƒ getValueH()hCost: 0id: 1599inPath: falseparent: NodeF: 11040gCost: 10840getG: ƒ getValueG()arguments: (...)caller: (...)length: 0name: "getValueG"__proto__: ƒ ()[[FunctionLocation]]: script.js:65[[Scopes]]: Scopes[2]getH: ƒ getValueH()arguments: (...)caller: (...)length: 0name: "getValueH"__proto__: ƒ ()[[FunctionLocation]]: script.js:71[[Scopes]]: Scopes[2]hCost: 200id: 1598inPath: trueparent: Node {id: 1557, size: 20, positionX: 760, positionY: 740, walkable: true, …}F: 11040gCost: 10560getG: ƒ getValueG()getH: ƒ getValueH()hCost: 480id: 1557inPath: trueparent: Node {id: 1516, size: 20, positionX: 740, positionY: 720, walkable: true, …}positionX: 760positionY: 740size: 20walkable: true__proto__: ObjectpositionX: 780positionY: 760size: 20walkable: true__proto__: ObjectpositionX: 780positionY: 780size: 20walkable: true__proto__: Object
+script.js:288 
+Array do caminho final traçado:
+script.js:289 (41) [Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node, Node]0: Node {id: 41, size: 20, positionX: 20, positionY: 20, walkable: true, …}1: Node {id: 42, size: 20, positionX: 20, positionY: 40, walkable: true, …}2: Node {id: 83, size: 20, positionX: 40, positionY: 60, walkable: true, …}3: Node {id: 124, size: 20, positionX: 60, positionY: 80, walkable: true, …}4: Node {id: 165, size: 20, positionX: 80, positionY: 100, walkable: true, …}5: Node {id: 205, size: 20, positionX: 100, positionY: 100, walkable: true, …}6: Node {id: 246, size: 20, positionX: 120, positionY: 120, walkable: true, …}7: Node {id: 287, size: 20, positionX: 140, positionY: 140, walkable: true, …}8: Node {id: 328, size: 20, positionX: 160, positionY: 160, walkable: true, …}9: Node {id: 369, size: 20, positionX: 180, positionY: 180, walkable: true, …}10: Node {id: 410, size: 20, positionX: 200, positionY: 200, walkable: true, …}11: Node {id: 451, size: 20, positionX: 220, positionY: 220, walkable: true, …}12: Node {id: 492, size: 20, positionX: 240, positionY: 240, walkable: true, …}13: Node {id: 533, size: 20, positionX: 260, positionY: 260, walkable: true, …}14: Node {id: 574, size: 20, positionX: 280, positionY: 280, walkable: true, …}15: Node {id: 615, size: 20, positionX: 300, positionY: 300, walkable: true, …}16: Node {id: 656, size: 20, positionX: 320, positionY: 320, walkable: true, …}17: Node {id: 697, size: 20, positionX: 340, positionY: 340, walkable: true, …}18: Node {id: 738, size: 20, positionX: 360, positionY: 360, walkable: true, …}19: Node {id: 779, size: 20, positionX: 380, positionY: 380, walkable: true, …}20: Node {id: 820, size: 20, positionX: 400, positionY: 400, walkable: true, …}21: Node {id: 861, size: 20, positionX: 420, positionY: 420, walkable: true, …}22: Node {id: 902, size: 20, positionX: 440, positionY: 440, walkable: true, …}23: Node {id: 943, size: 20, positionX: 460, positionY: 460, walkable: true, …}24: Node {id: 984, size: 20, positionX: 480, positionY: 480, walkable: true, …}25: Node {id: 1025, size: 20, positionX: 500, positionY: 500, walkable: true, …}26: Node {id: 1066, size: 20, positionX: 520, positionY: 520, walkable: true, …}27: Node {id: 1107, size: 20, positionX: 540, positionY: 540, walkable: true, …}28: Node {id: 1148, size: 20, positionX: 560, positionY: 560, walkable: true, …}29: Node {id: 1189, size: 20, positionX: 580, positionY: 580, walkable: true, …}30: Node {id: 1230, size: 20, positionX: 600, positionY: 600, walkable: true, …}31: Node {id: 1271, size: 20, positionX: 620, positionY: 620, walkable: true, …}32: Node {id: 1312, size: 20, positionX: 640, positionY: 640, walkable: true, …}33: Node {id: 1353, size: 20, positionX: 660, positionY: 660, walkable: true, …}34: Node {id: 1394, size: 20, positionX: 680, positionY: 680, walkable: true, …}35: Node {id: 1435, size: 20, positionX: 700, positionY: 700, walkable: true, …}36: Node {id: 1476, size: 20, positionX: 720, positionY: 720, walkable: true, …}37: Node {id: 1516, size: 20, positionX: 740, positionY: 720, walkable: true, …}38: Node {id: 1557, size: 20, positionX: 760, positionY: 740, walkable: true, …}39: Node {id: 1598, size: 20, positionX: 780, positionY: 760, walkable: true, …}40: Node {id: 1599, size: 20, positionX: 780, positionY: 780, walkable: true, …}length: 41__proto__: Array(0)

@@ -1,0 +1,47 @@
+<!-- Anaísa Forti da Fonseca - 11811ECP012 -->
+
+<!DOCTYPE html>
+  <head>
+    <title>Tarefa 03</title>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+
+  <body>
+    <div class="container">
+
+      <div>
+        <!-- informações gerais -->
+        <h1>Tarefa 03</h1>
+        <p>Anaísa Forti da Fonseca, 11811ECP012</p>
+        <div style="width: 80%; text-align: justify;">
+          O início está em amarelo, o fim em laranja e os obstáculos em branco.
+          <!-- Quadrados em aberto em cinza e quadrados percorridos em vermelho. -->
+          O caminho final é mostrado em lilás.
+        </br></br>
+          Utilize os botões abaixo para controle:
+        </div>
+
+        <!-- botões de controle -->
+        <div class = "row" style="padding-top: 10px;">
+          <div id="buttonWall" tabindex="0" class="button">Obstáculo</div>
+          <div id="buttonStart" tabindex="0" class="button">Início</div>
+          <div id="buttonEnd" tabindex="0" class="button">Fim</div>
+        </div>
+        <div class = "row" style="padding-bottom: 20px;">
+          <div id="buttonBegin" tabindex="0" class="button">Buscar caminho</div>
+          <div id="buttonClear" tabindex="0" class="button">Limpar caminho</div>
+          <div id="resetAll" tabindex="0" class="button">Resetar</div>
+        </div>
+      </div>
+
+      <!-- canvas e script a serem usados -->
+      <div>
+        <canvas id="gCanvas" width="800" height="800"></canvas>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js'></script>
+        <!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/js/bootstrap.min.js'></script> -->
+        <script  src="./script.js"></script>
+      </div>
+
+    </div>
+  </body>
+</html>
